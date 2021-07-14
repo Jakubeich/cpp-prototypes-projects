@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\jakub mitrega\documents\github\cpp-prototypes-projects\asteroids\asteroids\main.cpp(16): warning C4244: return: double se převádí na float; může dojít ke ztrátě dat.
+c:\users\jakub mitrega\documents\github\cpp-prototypes-projects\asteroids\asteroids\main.cpp(26): warning C4305: =: zkrácení z: double na: float
+c:\users\jakub mitrega\documents\github\cpp-prototypes-projects\asteroids\asteroids\main.cpp(28): warning C4102: std: neodkazovaná jmenovka
+  Asteroids.vcxproj -> C:\Users\Jakub Mitrega\Documents\GitHub\cpp-prototypes-projects\Asteroids\x64\Debug\Asteroids.exe
